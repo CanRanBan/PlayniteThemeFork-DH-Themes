@@ -48,13 +48,13 @@
       <HintPath>..\..\..\PhotoSauce.MagicScaler.dll</HintPath>
     </Reference>
     <Reference Include="Playnite">
-      <HintPath>..\..\..\p10\build\Release\Playnite.dll</HintPath>
+      <HintPath>..\..\..\Playnite.dll</HintPath>
     </Reference>
     <Reference Include="Playnite.DesktopApp">
-      <HintPath>..\..\..\p10\build\Release\Playnite.DesktopApp.exe</HintPath>
+      <HintPath>..\..\..\Playnite.DesktopApp.exe</HintPath>
     </Reference>
     <Reference Include="Playnite.SDK">
-      <HintPath>..\..\..\p10\build\Release\Playnite.SDK.dll</HintPath>
+      <HintPath>..\..\..\Playnite.SDK.dll</HintPath>
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
