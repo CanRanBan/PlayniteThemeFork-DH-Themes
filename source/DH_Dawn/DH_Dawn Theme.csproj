@@ -93,7 +93,6 @@
     <Content Include="Images\applogo_glow.png" />
     <Content Include="Images\applogo_white.ico" />
     <Content Include="Images\Banners\PlatformName\Android.png" />
-    <Content Include="Images\Banners\PlatformName\Android2.png" />
     <Content Include="Images\Banners\PlatformName\Arcade.png" />
     <Content Include="Images\Banners\PlatformName\iOS.png" />
     <Content Include="Images\Banners\PlatformName\MicrosoftMSX.png" />
